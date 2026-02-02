@@ -1,6 +1,11 @@
+#  _____  _    ____     ____  ___  ____  _____ 
+# |_   _|/ \  |___ \   / ___|/ _ \|  _ \| ____|
+#   | | / _ \   __) | | |   | | | | |_) |  _|  
+#   | |/ ___ \ / __/  | |___| |_| |  _ <| |___ 
+#   |_/_/   \_\_____|  \____|\___/|_| \_\_____|
+
 𐐘💥╾━╤デ╦︻ඞාTATITUPTECHDADEV𐐘💥╾━╤デ╦︻ඞා
-𐐘💥╾━╤デ╦︻ඞාTATITUPTECHDADEV𐐘💥╾━╤デ╦︻ඞා
-𐐘💥╾━╤デ╦︻ඞාTATITUPTECHDADEV𐐘💥╾━╤デ╦︻ඞා
+
 # TA2-Core Framework
 
 A complete FiveM server core framework similar to QBCore, providing essential functionality for roleplay servers.
